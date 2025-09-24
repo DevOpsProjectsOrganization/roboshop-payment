@@ -10,3 +10,5 @@ jobs:
     with :
       app_type : python
       app_name: payment
+      app_env : dev
+      enabled : false
