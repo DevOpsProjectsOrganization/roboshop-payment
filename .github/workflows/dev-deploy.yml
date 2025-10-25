@@ -11,3 +11,4 @@ jobs:
       app_name: payment
       app_env : dev
       enabled : false
+      ingress : false
